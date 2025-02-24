@@ -1,0 +1,14 @@
+{
+  "name": "pracdeploy",
+  "version": "1.0.0",
+  "description": "a basic app to deploy for practice",
+  "main": "App.js",
+  "scripts": {
+    "start" : "node App.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "mr saffu",
+  "license": "ISC"
+}
