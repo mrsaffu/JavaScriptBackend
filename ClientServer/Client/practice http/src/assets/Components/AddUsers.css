@@ -1,0 +1,31 @@
+.sectt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  border: 5px solid rgb(67, 64, 64);
+  width: 50vh;
+  height: 25vw;
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+  margin: 60px;
+  text-align: center;
+  gap: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+label {
+  font-size: 20px;
+  /* padding: 5px; */
+}
+input {
+  font-size: 20px;
+}
+
+textarea {
+  height: 100px;
+  padding: 4px;
+  width: 300px;
+}
